@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYQFUOqsfVo=",
+  "success": true,
+  "projectFilePath": "C:\\FSharpFix\\Lab2Fix\\Lab2Fix.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

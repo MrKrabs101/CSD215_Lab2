@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Records\Models.fs" />
+    <Compile Include="Records\Instances.fs" />
+    <Compile Include="Records\Filtering.fs" />
+    <Compile Include="Records\Mapping.fs" />
+    <Compile Include="DiscriminatedUnions\Models.fs" />
+    <Compile Include="DiscriminatedUnions\Budget.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
